@@ -1,0 +1,4 @@
+interface:
+  display_name: "XHS Content Strategy"
+  short_description: "小红书定位、内容、复盘与变现方法技能"
+  default_prompt: "Use $xhs-content-strategy to help me choose a Xiaohongshu niche, build a content plan, and improve weak-performing posts."
